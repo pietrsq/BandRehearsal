@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BandRehearsal</string>
+    <string name="ensaio_de_hoje">Ensaio de hoje</string>
+    <string name="resumo_ensaio">%1$d músicas no repertório de hoje</string>
+    <string name="toque_em_uma_musica">Toque em uma música para abrir BPM e anotações.</string>
+    <string name="metronomo_anotacao">Metrônomo / Anotação</string>
+    <string name="menos">−</string>
+    <string name="mais">+</string>
+    <string name="anotacao_ultimo_ensaio">Anotações do ensaio</string>
+    <string name="voltar_repertorio">Voltar ao repertório</string>
+    <string name="musica_sem_nome">Música sem nome</string>
+    <string name="sem_anotacoes">Sem anotações para esta música.</string>
+    <string name="bpm_formatado">%1$d BPM</string>
+    <string name="icone_musica">Ícone da música</string>
+    <string name="anotacoes_hint">Escreva aqui suas anotações para esta música…</string>
+    <string name="salvar_anotacao">Salvar anotação</string>
+    <string name="anotacao_salva">Anotação salva</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="background">#111318</color>
+    <color name="surface">#1A1D24</color>
+    <color name="card_stroke">#343945</color>
+    <color name="text_primary">#F2F3F5</color>
+    <color name="text_secondary">#B6BBC6</color>
+    <color name="accent">#B9A7FF</color>
+</resources>
